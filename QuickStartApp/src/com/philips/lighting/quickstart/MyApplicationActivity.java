@@ -61,6 +61,7 @@ public class MyApplicationActivity extends Activity {
 
             turnLightsOn(9000);
         }
+        finish();
 
 
     }
